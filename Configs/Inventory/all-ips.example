@@ -1,0 +1,3 @@
+172.18.213.10 nfs-server
+172.18.209.87 jump-host
+172.18.223.192 web-server
